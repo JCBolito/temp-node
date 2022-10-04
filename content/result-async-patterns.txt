@@ -1,0 +1,4 @@
+CONTENT OF first.txt AND second.txt: First text file. Second text file.
+CONTENT OF first.txt AND second.txt: First text file. Second text file.
+CONTENT OF first.txt AND second.txt: First text file. Second text file.
+CONTENT OF first.txt AND second.txt: First text file. Second text file.

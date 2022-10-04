@@ -1,0 +1,13 @@
+🎯 "scripts": {
+		"start": "node app.js", ("npm start")
+		"dev": "nodemon app.js" ("npm run dev")
+	},
+
+🎯 "scripts": {
+		"start": "nodemon app.js" ("npm start")
+	},
+
+🎯	CTRL + C to exit node
+
+🎯	
+	re
